@@ -16,4 +16,6 @@
 
 #医疗咨询
 
+下面就是测试结果，五个意图全部测试正确，有些测试问题还是没有见过的，例如得了结膜炎怎么处理。
+
 ![Image text](https://github.com/blueapplehe/npl/blob/master/abc.png)
