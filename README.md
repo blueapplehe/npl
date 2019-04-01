@@ -7,7 +7,13 @@
 下面用简单的常见的五个智能助理的功能进行测试和演示，看看lstm网络如何在少量数据时，也能精准识别出用户的问答意图。
 
 #问天气
+
 #导航
+
 #唱歌
+
 #提醒功能
+
 #医疗咨询
+
+![Image text](https://github.com/blueapplehe/shihua/blob/master/测试结果.png)
