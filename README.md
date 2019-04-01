@@ -20,4 +20,8 @@
 
 如果本项目对你有帮助，请点星
 
+最后输出的就是对应的问题属于什么意图的概率
+
 ![Image text](https://github.com/blueapplehe/npl/blob/master/234.png)
+
+
