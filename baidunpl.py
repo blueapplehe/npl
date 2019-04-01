@@ -3,8 +3,8 @@ import re
 class BaiduNpl:
     def __init__(self):
         APP_ID = 'd491715c5684423e87657ac69449a8eb'
-        API_KEY = '311e980421a5457daace65a8b1fb2d27'
-        SECRET_KEY = 'a3e141a43f744682a45c40f1cf45e797'
+        API_KEY = ''
+        SECRET_KEY = ''
         self.client = AipNlp(APP_ID, API_KEY, SECRET_KEY)
 
     def getFenCi(self,text):
