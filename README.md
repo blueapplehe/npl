@@ -16,4 +16,4 @@
 
 #医疗咨询
 
-![Image text](https://github.com/blueapplehe/shihua/blob/master/测试结果.png)
+![Image text](https://github.com/blueapplehe/npl/blob/master/abc.png)
