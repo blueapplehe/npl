@@ -18,4 +18,6 @@
 
 下面就是测试结果，五个意图全部测试正确，有些测试问题还是没有见过的。
 
+如果本项目对你有帮助，请点星
+
 ![Image text](https://github.com/blueapplehe/npl/blob/master/234.png)
