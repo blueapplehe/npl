@@ -22,6 +22,10 @@
 
 最后输出的就是对应的问题属于什么意图的概率
 
+百度词嵌入需要申请百度智能的账号请求自己取申请吧，然后修改代码吧。
+
+对你有帮助的请点赞
+
 ![Image text](https://github.com/blueapplehe/npl/blob/master/234.png)
 
 
